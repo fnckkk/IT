@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\WCF\WCF\bin\WCF.dll
+C:\Users\Admin\Desktop\WCF\WCF\bin\WCF.pdb
+C:\Users\Admin\Desktop\WCF\WCF\obj\Debug\WCF.dll
+C:\Users\Admin\Desktop\WCF\WCF\obj\Debug\WCF.pdb
+C:\Users\Admin\Desktop\IT\WCF\WCF\bin\WCF.dll
+C:\Users\Admin\Desktop\IT\WCF\WCF\bin\WCF.pdb
+C:\Users\Admin\Desktop\IT\WCF\WCF\obj\Debug\WCF.dll
+C:\Users\Admin\Desktop\IT\WCF\WCF\obj\Debug\WCF.pdb
+C:\Users\Admin\Desktop\IT\WCF\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+C:\Users\805\Desktop\IT\WCF\WCF\bin\WCF.dll
+C:\Users\805\Desktop\IT\WCF\WCF\bin\WCF.pdb
+C:\Users\805\Desktop\IT\WCF\WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\805\Desktop\IT\WCF\WCF\obj\Debug\WCF.dll
+C:\Users\805\Desktop\IT\WCF\WCF\obj\Debug\WCF.pdb
